@@ -1,5 +1,3 @@
-# BLUETOOTH-BEACON
-# BLUETOOTH-BEACON
 ## BEACON Package
 
 本仓库包含 DX-SMART 蓝牙 BEACON 模块的完整资料包，包含开发固件、用户手册、参数配置等资源。
