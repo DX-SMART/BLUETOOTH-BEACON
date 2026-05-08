@@ -1,4 +1,4 @@
-# LoRaModule Resource Download Center
+# Beacon Resource Download Center
 
 This repository provides technical documentation, testing tools, and reference source code for the full range of DX-SMART LoRa modules.
 
